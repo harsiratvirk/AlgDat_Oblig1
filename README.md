@@ -1,9 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VjzRkYWj)
-# Obligatorisk Oppgave 1 i DATS2300 - Algoritmer og Datastrukturer
+# Compulsory Assignment 1 in DATS2300 - Algorithms and Data Structures
 
-Denne oppgaven er en innlevering i Algoritmer og Datastruktorer.
-Oppgaven er levert av følgende studenter:
-* 385516, hakau9101@oslomet.no
+This assignment is a submission in Algorithms and Data Structures (in Norwegian).
 
 ## Oppgavebeskrivelser
 ### Oppgave 1
